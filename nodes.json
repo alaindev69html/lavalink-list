@@ -234,6 +234,15 @@
         "authorId": "896607695329693746"
     },
     {
+        "identifier": "VORTEX CLOUD LAVALINK",
+        "host": "node.vortexcloud.xyz",
+        "port": 22111,
+        "password": "vortexcloud",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "913319000027561984"
+    },    
+    {
         "identifier": "QuantumHost LAVALINK",
         "host": "139.99.90.147",
         "port": 25590,
